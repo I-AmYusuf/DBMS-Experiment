@@ -1,8 +1,9 @@
-# DBMS Experiments 2–10
+# DBMS Experiments 1–10
 
 MySQL 8.0+ practical exercises. Each experiment has its own folder containing a README and runnable SQL script.
 
 ## Experiments
+- [Experiment 1](Experiment-1/README.md)
 - [Experiment 2](Experiment-2/README.md)
 - [Experiment 3](Experiment-3/README.md)
 - [Experiment 4](Experiment-4/README.md)
